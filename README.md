@@ -1,4 +1,4 @@
-This provides the data for the paper, "Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform."
+This provides the data for the paper, "Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform." arXiv: https://arxiv.org/abs/2501.01953.
 
 The code uses: <br/>
 qiskit==1.3.0 <br/>
